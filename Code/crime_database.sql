@@ -36,9 +36,9 @@ UPDATE crime
 SET primary_type = 'non-criminal'
 WHERE primary_type = 'non - criminal'
 
--- UPDATE crime
--- SET primary_type = 'criminal sexual assault'
--- WHERE primary_type = 'crim sexual assault'
+UPDATE crime
+SET primary_type = 'criminal sexual assault'
+WHERE primary_type = 'crim sexual assault'
 
 SELECT 
     primary_type, 
