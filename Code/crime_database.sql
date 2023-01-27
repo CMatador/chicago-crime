@@ -48,3 +48,11 @@ SELECT
 FROM crime
 WHERE year = 2022
 GROUP BY primary_type, community_area, domestic
+
+SELECT 
+    community_area,
+    count(community_area) AS num_crimes
+FROM crime
+WHERE community_area IS NOT NULL
+GROUP BY community_area
+ORDER BY community_area
