@@ -17,6 +17,38 @@ The following research questions guided our capstone project:
   6. Are graduation rates at Chicago schools affected by crime in those areas?
   7. Are there any connections between the school students' demographics and the reported misconducts?
   
-  
+# Repo Structure  
 
+Code: contains SQL databse code, as well as notebooks for EDA, machine learning models, Visualizations and Kafka pipeline setup.
+Dashboard: contains code and files needed to run the interactive dashboard.
+Datasets: contains csv files used in the project.
+ETL: contains report on ETL processes taken, along with notebooks with the code used.
+Project-Specification: conatins project management plan, technical report, dashboard prototypes, feedback, and the presentation slides in pdf.
+
+# Tech stack
+The following tools and libraries were used in the project:
+- Python libraries
+  - pandas
+  - matplotlib
+  - numpy
+  - seaborn
+  - plotly
+  - dash
+  - confluent_kafka
+  - json
+  - datetime
+  - pyspark
+  - socrata
+  - time
+  - uuid
+  - requests
+  - pymssql
+  - sklearn
+  - sqlalchemy
+  - sqlite3
+  - dash
+  - dash_bootstrap_components
   
+- Azure Data Factory
+- SQL Server
+- Azure Databricks
