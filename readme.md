@@ -52,7 +52,9 @@ The following tools and libraries were used in the project:
   - sqlite3
   - dash
   - dash_bootstrap_components
-  
+  - xgboost
+  - shap
+    
 - Azure Data Factory
 - SQL Server
 - Azure Databricks
