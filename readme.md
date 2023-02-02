@@ -1,5 +1,12 @@
+# Authors: 
 
-# Research Questions:
+Albert Prouty, Chris Kusha, Clara McGrath, Jassleen Bhullar
+
+
+# Introduction:
+
+Infamously known as 'Chiraq', Chicago's reputation as a violent, crime-infested city precedes it. But is crime in Chicago truly that concerning? This project explores crime in Chicago by analyzing crime statistics to understand crime trends in Chicago. Concurrently, we explore any effects that crime rates and violence in Chicago can have on the state of education and the behaviors of students in Chicago Public Schools.
+
 
   1. Has crime in Chicago increased or decreased over the last decade?
   2. How has crime in Chicago affected education and students?
