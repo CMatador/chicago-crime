@@ -20,9 +20,13 @@ The following research questions guided our capstone project:
 # Repo Structure  
 
 Code: contains SQL databse code, as well as notebooks for EDA, machine learning models, Visualizations and Kafka pipeline setup.
+
 Dashboard: contains code and files needed to run the interactive dashboard.
+
 Datasets: contains csv files used in the project.
+
 ETL: contains report on ETL processes taken, along with notebooks with the code used.
+
 Project-Specification: conatins project management plan, technical report, dashboard prototypes, feedback, and the presentation slides in pdf.
 
 # Tech stack
